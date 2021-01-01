@@ -23,3 +23,17 @@
 - [Fruits Database Project](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Fruits-project)
 - [To Do List Project](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/ToDoList-v2)
 
+<br>
+
+### Day 3: January 1, 2021
+
+**Today's Progress**: 
+- Rendering Database in the To Do List App. 
+- Features: Adding and Deleting Items.
+- Features: Creating Custom List.
+
+**Link to work:** 
+- [To Do List Project](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/ToDoList-v2)
+
+
+
