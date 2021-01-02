@@ -35,5 +35,14 @@
 **Link to work:** 
 - [To Do List Project](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/ToDoList-v2)
 
+<br>
+
+### Day 4: January 2, 2021
+
+**Today's Progress**: 
+- Created a Blog website with database stored in MongoDB and deployed thru Heroku
+
+**Link to work:** 
+- [Blog Website](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Blog-with-Database)
 
 
