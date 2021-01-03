@@ -45,4 +45,13 @@
 **Link to work:** 
 - [Blog Website](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Blog-with-Database)
 
+<br>
+
+### Day 5: January 3, 2021
+
+**Today's Progress**: 
+- Learning to build RESTful API from scratch. done with setting up my database using MongoDB
+
+**Link to work:** 
+- [Wiki-API](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Wiki-API)
 
