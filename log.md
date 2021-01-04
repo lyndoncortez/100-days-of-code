@@ -55,3 +55,13 @@
 **Link to work:** 
 - [Wiki-API](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Wiki-API)
 
+<br>
+
+### Day 6: January 5, 2021
+
+**Today's Progress**: 
+- I just finished creating a RESTful API from scratch using MongoDB(database), Robo3T(GUI) and Postman.
+
+**Link to work:** 
+- [Wiki-API](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Wiki-API)
+
