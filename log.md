@@ -64,3 +64,12 @@
 **Link to work:** 
 - [Wiki-API](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Wiki-API)
 
+<br>
+
+### Day 7: January 6, 2021
+
+**Today's Progress**: Started learning React thru Scrimba's free course.
+
+**Thoughts:** Scrimba's interactive screencast is definitely game changing! Looking forward to Bob Ziroll's React Bootcamp.
+
+
