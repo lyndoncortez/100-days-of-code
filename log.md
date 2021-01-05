@@ -70,6 +70,6 @@
 
 **Today's Progress**: Started learning React thru Scrimba's free course.
 
-**Thoughts:** Scrimba's interactive screencast is definitely game changing! Looking forward to Bob Ziroll's React Bootcamp.
+**Thoughts:** Scrimba's interactive screencast is definitely a game changer! Looking forward to Bob Ziroll's React Bootcamp.
 
 
